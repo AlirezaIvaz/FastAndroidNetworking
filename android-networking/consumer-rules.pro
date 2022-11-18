@@ -1,0 +1,2 @@
+# For OkHttp
+-dontwarn okio.**
